@@ -1,27 +1,28 @@
 # Hi there 👋
 
-I’m David Méndez, a Sales Analyst and Business Intelligence professional with a background in Industrial Engineering and over 6 years of experience transforming data into strategic insights.
+I’m David Méndez, a Business Intelligence and Data Analytics professional with a background in Industrial Engineering and over 6 years of experience helping organizations turn data into strategic decisions.
 
-I specialize in Power BI, SQL, ETL processes, and data visualization, building dashboards and analytics solutions that support decision-making in commercial, operational, and market intelligence environments.
+I specialize in Power BI, SQL, ETL processes, dashboard development, and business analysis, creating solutions that improve visibility, operational efficiency, and decision-making across commercial and operational teams.
 
-Currently working in the airline industry at [Arajet](https://www.arajet.com?utm_source=chatgpt.com), I focus on revenue analysis, sales performance, forecasting, and automation projects. I’m also passionate about Python, analytics engineering, and creating portfolio projects that combine data, business strategy, and storytelling.
+Currently working in the airline industry at [Arajet](https://www.arajet.com?utm_source=chatgpt.com), I focus on sales analytics, revenue insights, reporting automation, and market intelligence initiatives.
 
-## 🚀 Tech Stack
+## 🚀 Skills & Tools
 
 * Power BI
 * SQL
-* Python
-* PostgreSQL
+* Data Modeling
+* ETL Processes
 * Excel & VBA
-* Data Modeling & ETL
+* Business Intelligence
+* Data Visualization
 
 ## 📊 Featured Project
 
 * Energy Market Intelligence Dashboard
-  End-to-end analytics project using Python, PostgreSQL, Machine Learning, and Power BI for energy market forecasting and visualization.
+  Enterprise-style analytics project focused on energy market trends, forecasting, and interactive business intelligence reporting.
 
 ## 🌎 Interests
 
-Business Analytics • Market Intelligence • Data Science • Aviation • Automation • Visualization
+Business Analytics • Market Intelligence • Aviation • Data Visualization • Continuous Improvement • Analytics Engineering
 
-📫 Let’s connect and build data-driven solutions together.
+📫 Open to collaborating on analytics, dashboarding, and data-driven business projects.
