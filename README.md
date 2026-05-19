@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**David2390/David2390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m David Méndez, a Sales Analyst and Business Intelligence professional with a background in Industrial Engineering and over 6 years of experience transforming data into strategic insights.
 
-Here are some ideas to get you started:
+I specialize in Power BI, SQL, ETL processes, and data visualization, building dashboards and analytics solutions that support decision-making in commercial, operational, and market intelligence environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working in the airline industry at [Arajet](https://www.arajet.com?utm_source=chatgpt.com), I focus on revenue analysis, sales performance, forecasting, and automation projects. I’m also passionate about Python, analytics engineering, and creating portfolio projects that combine data, business strategy, and storytelling.
+
+## 🚀 Tech Stack
+
+* Power BI
+* SQL
+* Python
+* PostgreSQL
+* Excel & VBA
+* Data Modeling & ETL
+
+## 📊 Featured Project
+
+* Energy Market Intelligence Dashboard
+  End-to-end analytics project using Python, PostgreSQL, Machine Learning, and Power BI for energy market forecasting and visualization.
+
+## 🌎 Interests
+
+Business Analytics • Market Intelligence • Data Science • Aviation • Automation • Visualization
+
+📫 Let’s connect and build data-driven solutions together.
