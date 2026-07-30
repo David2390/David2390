@@ -4,7 +4,7 @@ I’m David Méndez, a Business Intelligence and Data Analytics professional wit
 
 I specialize in Power BI, SQL, ETL processes, dashboard development, and business analysis, creating solutions that improve visibility, operational efficiency, and decision-making across commercial and operational teams.
 
-Currently working in the airline industry at [Arajet](https://www.arajet.com?utm_source=chatgpt.com), I focus on sales analytics, revenue insights, reporting automation, and market intelligence initiatives.
+Currently working in the airline industry at [Arajet](https://www.arajet.com/en-us/home), I focus on sales analytics, revenue insights, reporting automation, and market intelligence initiatives.
 
 ## 🚀 Skills & Tools
 
